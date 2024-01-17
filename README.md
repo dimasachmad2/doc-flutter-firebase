@@ -72,9 +72,25 @@ ini dokumentasi setup flutter untuk menghuibungkan dengan firebase.
     Setelah selesai, bangun ulang project Flutter Anda:
 
     ```bash
-      flutter run
+      $ flutter run
     ```
-  - 
+    
+  - Kamu bisa tambahkan beberapa plugin Firebase lainya ke dalam projek flutter kamu sesuai kebutuhan.
+
+    Dari direktori project Flutter Anda, jalankan perintah berikut:
+
+    ```bash
+      $ flutter pub add {PLUGIN_NAME}
+    ```
+
+    Selanjutnya jalankan perintah berikut untuk Anda dapat memastikan konfigurasi Firebase aplikasi Flutter sudah yang terbaru dan dapat menambahkan plugin Gradle yang diperlukan ke aplikasi Anda untuk Crashlytics dan Performance Monitoring di Android:
+
+    ```bash
+      $ flutterfire configure
+    ```
+
+    Untuk plugin apa saja yang bisa digunakan, kamu bisa langsun cek di Documentation [Firebase-Flutter]([https://pages.github.com/](https://firebase.google.com/docs/flutter/setup?hl=id&platform=android)https://firebase.google.com/docs/flutter/setup?hl=id&platform=android).
+    
 
     
 
