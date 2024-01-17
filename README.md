@@ -1,5 +1,5 @@
 # doc-flutter-firebase
-ini dokumentasi setup flutter untuk menghuibungkan dengan firebase.
+ini dokumentasi singkat yang saya buat untuk setup flutter yang dihubungkan dengan firebase.
 
 #### catatan: Cara kali ini menggunakan firebase-cli
 
