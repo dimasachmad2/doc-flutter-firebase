@@ -20,7 +20,8 @@ ini dokumentasi setup flutter untuk menghuibungkan dengan firebase.
     code BasicFlutter
     ```
     
-  - 
+- SetUp Firebase in flutter
+  - buka
 
     
 
