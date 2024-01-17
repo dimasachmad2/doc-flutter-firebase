@@ -5,7 +5,7 @@ ini dokumentasi setup flutter untuk menghuibungkan dengan firebase.
 
 - Instalasi Flutter:
   - buka VS Code kamu dan menuju kebagian terminal.
-  - 
+    
     ![image](https://github.com/dimasachmad2/doc-flutter-firebase/assets/17348628/747eedee-5e07-49e4-8372-0767e8c2955c)
     
   - buat projek baru flutter
