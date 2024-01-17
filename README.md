@@ -48,9 +48,20 @@ ini dokumentasi setup flutter untuk menghuibungkan dengan firebase.
     Akan muncul list projek yang ada diakun firebase kamu, kamu bisa memilih list projek yang ada atau membuat projek baru untuk dihubungkan ke projek flutter kamu.
     
   - Lakukan inisialisasi Firebase di aplikasi Anda.
+    
     Dari direktori project Flutter Anda, jalankan perintah berikut untuk menginstal plugin inti:
-    Dari direktori project Flutter Anda, jalankan perintah berikut untuk memastikan bahwa konfigurasi Firebase aplikasi Flutter Anda sudah yang terbaru:
+    ```bash
+    $ flutter pub add firebase_core
+    ```
+    
     Dalam file ```lib/main.dart```, impor plugin inti Firebase dan file konfigurasi yang Anda buat sebelumnya:
+
+     ```bash
+      import 'package:firebase_core/firebase_core.dart';
+      import 'firebase_options.dart';
+    ```
+
+     Selain itu, di file ```lib/main.dart```, lakukan inisialisasi Firebase menggunakan objek DefaultFirebaseOptions yang diekspor oleh file konfigurasi:
   - 
 
     
