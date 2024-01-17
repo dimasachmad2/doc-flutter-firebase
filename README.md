@@ -61,7 +61,19 @@ ini dokumentasi setup flutter untuk menghuibungkan dengan firebase.
       import 'firebase_options.dart';
     ```
 
-     Selain itu, di file ```lib/main.dart```, lakukan inisialisasi Firebase menggunakan objek DefaultFirebaseOptions yang diekspor oleh file konfigurasi:
+    Selain itu, di file ```lib/main.dart```, lakukan inisialisasi Firebase menggunakan objek DefaultFirebaseOptions yang diekspor oleh file konfigurasi:
+
+    ```bash
+      await Firebase.initializeApp(
+        options: DefaultFirebaseOptions.currentPlatform,
+      );
+    ```
+
+    Setelah selesai, bangun ulang project Flutter Anda:
+
+    ```bash
+      flutter run
+    ```
   - 
 
     
