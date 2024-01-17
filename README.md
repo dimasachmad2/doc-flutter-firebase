@@ -89,7 +89,7 @@ ini dokumentasi setup flutter untuk menghuibungkan dengan firebase.
       $ flutterfire configure
     ```
 
-    Untuk plugin apa saja yang bisa digunakan, kamu bisa langsun cek di Documentation [Firebase-Flutter]([https://pages.github.com/](https://firebase.google.com/docs/flutter/setup?hl=id&platform=android)https://firebase.google.com/docs/flutter/setup?hl=id&platform=android).
+    Untuk plugin apa saja yang bisa digunakan, kamu bisa langsun cek di Documentation [Firebase-Flutter](https://firebase.google.com/docs/flutter/setup?hl=id&platform=android).
     
 
     
