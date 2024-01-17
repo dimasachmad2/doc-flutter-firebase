@@ -13,7 +13,14 @@ ini dokumentasi setup flutter untuk menghuibungkan dengan firebase.
     ```bash
     flutter create BasicFlutter
     ```
-  - Jika sudah dibuat,  
+    
+  - Jika sudah dibuat, buka projek tersebut seperti berikut ini.
+    
+    ```bash
+    code BasicFlutter
+    ```
+    
+  - 
 
     
 
