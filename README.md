@@ -30,7 +30,7 @@ ini dokumentasi singkat yang saya buat untuk setup flutter yang dihubungkan deng
   - Login ke Firebase menggunakan akun Google Anda dengan menjalankan perintah berikut:
 
     ```bash
-    $ npm install -g firebase-tools
+    $ firebase login
     ```
     Setelah ini kamu akan diarahkan untuk login ke akun firebase kamu.
     
